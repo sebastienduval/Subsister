@@ -1,0 +1,14 @@
+Resources:
+
+* Wood
+* Clay
+* Dirt
+* Water
+* Water + Dirt = Brittle Dirt Block
+* Brittle Dirt Block + Force = Dirt Splatter
+* Water + Dirt + Hay = Dirt Block
+* Hay + Skill = Hat
+* Fire
+* Flint
+* Steel
+* Wood + Flint + Steel = Fire
